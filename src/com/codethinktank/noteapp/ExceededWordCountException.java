@@ -8,6 +8,4 @@ public class ExceededWordCountException extends Exception {
 
     }
 
-
-
 }
